@@ -1,0 +1,14 @@
+position:fix
+absolute
+
+float方法
+
+display:inline-block;
+opacity
+
+ container.scrollTop=container.scrollHeight;
+
+image是怎样被读为url的
+
+e.stopPropagation();
+slice和splice
